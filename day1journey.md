@@ -1,4 +1,4 @@
-#Day 1 of AI Journey: Basics of AI, ML, DL | Ready to Conquer! 
+# Day 1 of AI Journey: Basics of AI, ML, DL | Ready to Conquer! 
 # What is Artificial Intelligence (AI)?
 Artificial Intelligence (AI) is the technology of building smart machines capable of performing tasks that typically require human intelligence, such as problem-solving, decision-making, language understanding, and visual recognition.
 
@@ -16,7 +16,7 @@ It uses complex neural networks with multiple layers to analyze vast amounts of 
 
 ---
 
-## 🌍 Real-World Use Cases of AI:
+## Real-World Use Cases of AI:
 
 - Healthcare: Predict diseases, robotic surgeries, drug discovery.
 - Education: Personalized study plans, AI career counselors.
