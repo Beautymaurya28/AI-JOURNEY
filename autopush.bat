@@ -1,5 +1,5 @@
 @echo off
-cd /d "C:\Users\Welcome\OneDrive\Desktop\Artificial Intelligence"
+cd /d "D:\AI Nova Journey"
 :loop
 git add .
 git commit -m "Auto commit %date% %time%"
