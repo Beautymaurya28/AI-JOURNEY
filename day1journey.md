@@ -1,4 +1,4 @@
-# Day 1 of AI Journey: Basics of AI, ML, DL | Ready to Conquer! 
+# Day 1 of AI Journey: what is AI, ML, DL (just gain a little knowladge about exactly what is it) | Ready to Conquer! 
 # What is Artificial Intelligence (AI)?
 Artificial Intelligence (AI) is the technology of building smart machines capable of performing tasks that typically require human intelligence, such as problem-solving, decision-making, language understanding, and visual recognition.
 
