@@ -1,4 +1,4 @@
-# Day 1 of AI Journey: what is AI, ML, DL (just gain a little knowladge about exactly what is it) | Ready to Conquer! 
+#14 May 2025 - Day 2 (Supernova Execution Mode ON) – Wednesday: what is AI, ML, DL (just gain a little knowladge about exactly what is it) | Ready to Conquer! 
 # What is Artificial Intelligence (AI)?
 Artificial Intelligence (AI) is the technology of building smart machines capable of performing tasks that typically require human intelligence, such as problem-solving, decision-making, language understanding, and visual recognition.
 
@@ -32,4 +32,6 @@ I explored the fundamentals of AI, ML, and DL, and understood how these technolo
 *One small step for Nova, one giant leap toward the AI Universe!* 
 
 ---
+
+
 
